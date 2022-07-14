@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BKauan;
+- 🌍 Based in Salvador, Brazil.
 - 👀 I’m interested in web developer jobs;
 - 🌱 I’m currently learning PHP, Laravel, REST;
 - 📫 How to reach me ? Just send a e-mail to b.alves.amaral@gmail.com.

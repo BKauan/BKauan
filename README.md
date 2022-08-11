@@ -16,6 +16,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=563D7C)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=LARAVEL&logoColor=00599C)&nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=ANGULAR&logoColor=00599C)&nbsp;
 - 🛢 &nbsp;

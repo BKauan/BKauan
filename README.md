@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Studying Computer science at UNIFACS.
 - 💼 &nbsp; Looking for an opportunity as a Web Developer.
-- 🌱 &nbsp; Learning more about Web Development, PHP, Laravel and REST.
+- 🌱 &nbsp; Learning more about Web Development, HTML, CSS, JavaScript and React.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

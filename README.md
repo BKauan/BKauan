@@ -21,6 +21,7 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=ANGULAR&logoColor=00599C)&nbsp;
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=TYPESCRIPT&logoColor=00599C)&nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=REACT&logoColor=00599C)&nbsp;
 - 🛢 &nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
